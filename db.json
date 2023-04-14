@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "name": "motu garg",
+      "email": "montu@gmail.com",
+      "phone": "9865674546",
+      "proof": "Driving License",
+      "service": "Cleaner",
+      "salary": "15000",
+      "password": "1234",
+      "id": 34
+    },
+    {
+      "name": "Punit Jindal",
+      "email": "punit@gmail.com",
+      "phone": "9898756565",
+      "proof": "Driving License",
+      "service": "Cleaner",
+      "salary": "15000",
+      "password": "1234",
+      "id": 35
+    },
+    {
+      "name": "himanshu sharma",
+      "email": "himanshu@gmail.com",
+      "phone": "9234567789",
+      "proof": "Aadhaar",
+      "service": "Cleaner",
+      "salary": "10000",
+      "password": "123456",
+      "id": 36
+    },
+    {
+      "name": "paras ramola",
+      "email": "paras@gmail.com",
+      "phone": "9885656566",
+      "proof": "Pan Card",
+      "service": "Manager",
+      "salary": "75000",
+      "password": "1234",
+      "id": 37
+    },
+    {
+      "name": "Preet",
+      "email": "preet@gmail.com",
+      "phone": "8758425005",
+      "proof": "Pan Card",
+      "service": "Chef",
+      "salary": "50000",
+      "password": "1234",
+      "id": 38
+    }
+  ],
+  "customer": [
+    {
+      "name": "kapil garg",
+      "username": "",
+      "email": "",
+      "password": "",
+      "phone": "9895656656",
+      "proof": "Aadhaar",
+      "member": "3",
+      "address": "nathana",
+      "room": "102",
+      "check": "2022-10-17",
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1628563694622-5a76957fd09c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+      "checkO": "2022-10-20"
+    },
+    {
+      "name": "sahil singla",
+      "username": "",
+      "email": "",
+      "password": "",
+      "phone": "9865656554",
+      "proof": "Aadhaar",
+      "member": "2",
+      "address": "Bathinda",
+      "room": "104",
+      "check": "2022-10-18",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDIdIEoKmi101JPpAOEpsDz65yTL315CgWly8LwDI&s",
+      "id": 5,
+      "checkO": "2022-10-20"
+    },
+    {
+      "name": "john",
+      "username": "",
+      "email": "",
+      "password": "",
+      "phone": "9411093745",
+      "proof": "Aadhaar",
+      "member": "1",
+      "address": "rajpura",
+      "room": "531",
+      "check": "2022-10-27",
+      "checkO": "2022-10-28",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDIdIEoKmi101JPpAOEpsDz65yTL315CgWly8LwDI&s",
+      "id": 6
+    },
+    {
+      "name": "Himanshu",
+      "username": "",
+      "email": "",
+      "password": "",
+      "phone": "6284953103",
+      "proof": "Aadhaar",
+      "member": "4",
+      "address": "lksmndl",
+      "room": "420",
+      "checkO": "2002-07-12",
+      "check": "2002-07-10",
+      "image": "",
+      "id": 7
+    }
+  ]
+}
